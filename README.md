@@ -1,3 +1,9 @@
+# Everforest Enchanted (My Fork)
+
+This is a personal fork of the **[Everforest Enchanted](https://github.com/FireIsGood/obsidian-everforest-enchanted)** theme for Obsidian. I'm a big fan of the Everforest theme family, but I often find myself tweaking a few things for personal preference. This fork is a space for me to do that and learn along the way.
+
+---
+
 # Everforest Enchanted
 
 ![Static Badge](https://img.shields.io/badge/Downloads-21662-7c3aed?style=plastic&logo=obsidian)
